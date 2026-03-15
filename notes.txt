@@ -1,0 +1,12 @@
+
+
+Critical error--> ML
+Error-->ML
+Security Alert--> ML
+System Notification-->ML
+HTTP Status-->regex
+Resource Usage --> regex
+User Action-->regex
+
+Deprecation Warning--> LLM
+WorkFlow error-->LLM
